@@ -1,6 +1,6 @@
-#Space Invaders
+# Space Invaders
 
-##GAME DESCRIPTION:
+## GAME DESCRIPTION:
 
 This game 'Space Invaders' is a primitive recreation of the classic arcade game of the same name, coded in python(without pygame). 
 The spaceship , denoted by 'A' , present in the 1st row, can move to its left or right.
@@ -12,7 +12,7 @@ There are 2 kinds of missiles : 'i' and 'I'.
 To play the game, type the command 'python main.py' in the terminal.
 To quit , PRESS 'q'
 
-##GAME CONTROLS:
+## GAME CONTROLS:
 
 To move spaceship to the left : PRESS 'a'
 To move spaceship to the right : PRESS 'd'
